@@ -1,0 +1,3 @@
+Using strings and dynamic memory
+Create a program that generates random sentences
+sentence = article1 adjective1 noun1 verb preposition article2 adjective2 noun2
